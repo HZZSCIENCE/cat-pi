@@ -1,0 +1,17 @@
+{
+  "name": "cat-pi",
+  "version": "1.0.0",
+  "description": "Cat-Pi — pi coding agent + Armory extensions (session preview, plan mode, trash bin)",
+  "bin": {
+    "cat-pi": "bin/cat-pi.js"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@mariozechner/pi-coding-agent": "latest"
+  },
+  "keywords": ["pi", "cat-pi", "coding-agent", "armory"],
+  "license": "MIT"
+}
