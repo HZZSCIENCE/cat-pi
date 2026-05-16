@@ -1,4 +1,4 @@
-# 🐱 Cat-Pi / 猫派
+# Cat-Pi 
 
 > **Cat-Pi 就是原版 Pi，一行命令，开箱即用。**
 > **Cat-Pi is the original Pi — one command, ready to go.**
