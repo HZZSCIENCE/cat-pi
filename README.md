@@ -3,7 +3,7 @@
 One command to install pi coding agent with all Armory plugins.
 
 ```bash
-npm install -g cat-pi
+npm install -g @tropical_meow/cat-pi
 cat-pi
 ```
 
@@ -23,12 +23,12 @@ Instead of:
 ```bash
 npm install -g @mariozechner/pi-coding-agent
 pi install git:github.com/HZZSCIENCE/pi-armory
-/armory install
+/armory on
 ```
 
 Just:
 ```bash
-npm install -g cat-pi
+npm install -g @tropical_meow/cat-pi
 cat-pi
 ```
 
