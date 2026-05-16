@@ -20,20 +20,7 @@ cat-pi
 
 ## 为什么用 Cat-Pi / Why
 
-保持 pi 的极简哲学,预装三个开箱即用的增强 / Keeps pi minimal, adds three essential enhancements out of the box.
-
-原来 / Before:
-```bash
-npm install -g @mariozechner/pi-coding-agent
-pi install git:github.com/HZZSCIENCE/pi-armory
-/armory on
-```
-
-现在 / After:
-```bash
-npm install -g @tropical_meow/cat-pi
-cat-pi
-```
+保持 pi 的极简哲学,预装三个开箱即用的增强 / Keeps pi minimal, adds essential enhancements out of the box.
 
 ## 升级 / Update
 
