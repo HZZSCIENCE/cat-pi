@@ -11,12 +11,10 @@ cat-pi
 
 | 功能 / Feature | 命令 / Command | 默认 / Default |
 |---------|---------|---------|
-| pi 编程代理 / pi agent | `cat-pi` | - |
 | 会话树预览 / Tree Preview | `/armory` | [默认开启 · Default ON] |
 | 计划模式 / Plan Mode | `/plan` | 手动 / manual |
 | 回收站 / Trash | `/trash` | [默认开启 · Default ON] |
 | PLAN.md 自动同步 / Auto-sync | 自动 / auto | ✅ |
-| 启动横幅 / Startup Banner | - | ✅ |
 
 ## 为什么用 Cat-Pi / Why
 
