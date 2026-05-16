@@ -1,0 +1,8 @@
+{
+  "backend": "auto",
+  "backends": {
+    "marginalia": {
+      "apiKey": "public"
+    }
+  }
+}

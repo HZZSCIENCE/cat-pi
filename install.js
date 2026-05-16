@@ -45,6 +45,14 @@ if (fs.existsSync(extDir)) {
   }, null, 2));
 }
 
+// Also install default search config for web search
+const searchSrc = path.join(PKG_DIR, "..", "extensions", "search.json");
+const searchDest = path.join(HOME, ".pi", "agent", "search.json");
+if (fs.existsSync(searchSrc) && !fs.existsSync(searchDest)) {
+  fs.mkdirSync(path.dirname(searchDest), { recursive: true });
+  fs.copyFileSync(searchSrc, searchDest);
+}
+
 // Also install via pi install if pi is available
 try {
   const { execSync } = await import("node:child_process");
