@@ -1,6 +1,6 @@
 {
   "name": "@tropical_meow/cat-pi",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Cat-Pi — pi coding agent + Armory extensions (session preview, plan mode, trash bin)",
   "bin": {
     "cat-pi": "bin/cat-pi.js"
